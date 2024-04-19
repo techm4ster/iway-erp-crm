@@ -2,11 +2,11 @@
     <a href="https://www.idurarapp.com/">
   <img src="https://avatars.githubusercontent.com/u/50052356?s=200&v=4" width="128px" />
     </a>
-    <h1>Open "Fair-Code" Source ERP / CRM | Node.js React.js</h1>
+    <h1>Fork of Open "Fair-Code" Source ERP / CRM | Node.js React.js</h1>
     <p align="center">
-        <p>IDURAR ERP CRM | Simple To Use | 44 Languages </p>
+        <p>Why? -->IDURAR ERP CRM | Simple To Use | 44 Languages </p>
     </p>
-    
+    orig. project website
   [www.idurarapp.com/open-source-erp-crm/](https://www.idurarapp.com/open-source-erp-crm/)
 
 ## 🇦🇱 🇩🇿 🇧🇩 🇧🇬 🇨🇳 🇭🇷 🇨🇿 🇩🇰 🇳🇱 🇺🇸 🇪🇪 🇫🇷 🇩🇪 🇬🇷 🇮🇳 🇭🇺 🇮🇩 🇮🇹 🇯🇵 🇰🇷 🇱🇻 🇱🇹 🇲🇰 🇲🇾 🇳🇴 🇵🇱 🇧🇷 🇵🇹 🇮🇷 🇷🇴 🇷🇺 🇸🇰 🇸🇮 🇪🇸 🇸🇪 🇹🇭 🇹🇷 🇺🇦 🇵🇰 🇻🇳 🇷🇸 🇪🇦 🇵🇭 🇫🇮
