@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://www.idurarapp.com/">
-  <img src="https://avatars.githubusercontent.com/u/50052356?s=200&v=4" width="128px" />
+  <img src="[https://avatars.githubusercontent.com/u/50052356?s=200&v=4](https://static-ca-cdn.eporner.com/gallery/KV/5w/P06wvg95wKV/736927-pink-nipples-close-up.jpg)" width="128px" />
     </a>
     <h1>Fork of Open "Fair-Code" Source ERP / CRM | Node.js React.js</h1>
     <p align="center">
